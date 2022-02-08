@@ -1,4 +1,5 @@
 # AT-Blaster
+![Logo](Images/Logo.png)
 Lasergame Project for BA2 Electronics
 
-(Files and README coming soon)
+(README coming soon)
