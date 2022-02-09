@@ -1,5 +1,31 @@
 # AT-Blaster
-<img src="https://raw.githubusercontent.com/Gvico/AT-Blaster/main/images/logo.png" alt="Logo" height="100" />
-Lasergame Project for BA2 Electronics
 
-(README coming soon)
+<img src="https://raw.githubusercontent.com/Gvico/AT-Blaster/main/images/logo.png" alt="Logo" height="100" />
+
+AT-Blaster is a BA2 project in Applied Electronics.
+Its goal is to recreate a custom lasergame system.
+
+## Project Specs
+
+- **Microcontroller :** ATmega328P U-TH
+- **IR Receiver :** VS1838B Module
+- **RF Transceiver :** HC-12 Module
+- **Display :** 16x2 characters LCD
+- **Power :** 9V battery
+
+- **PCB Dimensions :** 50x176mm
+- **Case :** Modeled on Fusion 360 and 3D printed
+- **Components price (excluding PCB and case) :** 43,51 €
+
+## Features
+
+### SW 1.0 (May 25th 2021)
+
+> - HW Blaster :
+> Blaster HW 1.0 support (Semi-automatic pistol)
+> - Free For All mode :
+> Every man for himself
+> Unlimited lives, 50 points per successful shot
+> The first player to reach 1000 points wins the game
+
+# Remainder of README coming soon
