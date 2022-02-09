@@ -50,4 +50,4 @@ Score screen, score card printing, centralized management...
 
 <img src="https://raw.githubusercontent.com/Gvico/AT-Blaster/main/images/3d1.png" alt="Logo" height="200" />
 <img src="https://raw.githubusercontent.com/Gvico/AT-Blaster/main/images/3d2.png" alt="Logo" height="200" />
-<img src="https://raw.githubusercontent.com/Gvico/AT-Blaster/main/images/testing.png" alt="Logo" height="200" />
+<img src="https://raw.githubusercontent.com/Gvico/AT-Blaster/main/images/testing.jpg" alt="Logo" height="200" />
