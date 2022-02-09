@@ -21,11 +21,29 @@ Its goal is to recreate a custom lasergame system.
 
 ### SW 1.0 (May 25th 2021)
 
-> - HW Blaster :
-> Blaster HW 1.0 support (Semi-automatic pistol)
-> - Free For All mode :
-> Every man for himself
-> Unlimited lives, 50 points per successful shot
-> The first player to reach 1000 points wins the game
+#### HW Blaster :
+
+Blaster HW 1.0 support (Semi-automatic pistol)
+
+#### Free For All mode :
+
+Every man for himself
+Unlimited lives, 50 points per successful shot
+The first player to reach 1000 points wins the game
+
+### Coming Soon
+
+#### Hardware++
+
+Support of new material (manual, automatic variants...)
+
+#### Modes++
+
+Support for new game modes (teams, protect the king, zombie...)
+
+#### Connectivity++
+
+Support for a base running on a Raspberry Pi.
+Score screen, score card printing, centralized management...
 
 # Remainder of README coming soon
