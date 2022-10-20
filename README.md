@@ -14,8 +14,8 @@ Its goal is to recreate a custom lasergame system.
 - **Power :** 9V battery
 
 - **PCB Dimensions :** 50x176mm
-- **Case :** Modeled on Fusion 360 and 3D printed
-- **Components price (excluding PCB and case) :** 43,51 €
+- **Case :** Designed on Fusion 360 and 3D printed
+- **Components price (as of May 2021, excluding PCB and case) :** 43,51 €
 
 ## Features
 
@@ -27,15 +27,15 @@ Blaster HW 1.0 support (Semi-automatic pistol)
 
 #### - Free For All mode :
 
-Every man for himself
-Unlimited lives, 50 points per successful shot
-The first player to reach 1000 points wins the game
+Unlimited lives, 50 points per successful shot.
+The first player to reach 1000 points wins the game!
 
-### Coming Soon
+### Room for improvement
 
 #### - Hardware++
 
 Support of new material (manual, automatic variants...)
+Blaster HW 2.0 with improved ergonomics and aim system
 
 #### - Modes++
 
